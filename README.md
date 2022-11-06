@@ -1,5 +1,7 @@
-# ansible-teste
+## script bash para alterar a label do node-pool dentro do deployment no kubernetes. <br />
+
+Execute o comando no cluster kubernetes desejado. 
 
 ```
-teste2
+change-deploynode-pool.sh
 ```
